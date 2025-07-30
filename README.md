@@ -132,58 +132,6 @@
 
 ---
 
-## 🎪 **Project Showcase**
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🤖 **AI-Powered Analytics Engine**
-*Next-gen machine learning platform for enterprise data insights*
-
-**🛠️ Tech:** Python • TensorFlow • Docker • Kubernetes • AWS
-
-**🎯 Impact:** 40% faster decision-making for business stakeholders
-
-</td>
-<td align="center" width="50%">
-
-### 📊 **Real-Time Business Dashboard**
-*Interactive visualization suite for executive-level reporting*
-
-**🛠️ Tech:** React • D3.js • Node.js • PostgreSQL • Redis
-
-**🎯 Impact:** Real-time insights for 10K+ daily active users
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-### 🔍 **Smart Data Pipeline**
-*Automated ETL framework for multi-source data integration*
-
-**🛠️ Tech:** Python • Apache Airflow • Spark • MongoDB
-
-**🎯 Impact:** 90% reduction in data processing time
-
-</td>
-<td align="center">
-
-### 🌐 **Scalable Web Architecture**
-*High-performance microservices ecosystem*
-
-**🛠️ Tech:** Spring Boot • React • Docker • Jenkins • AWS
-
-**🎯 Impact:** Handles 1M+ requests per day seamlessly
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
@@ -201,19 +149,6 @@
 
 </div>
 
----
-
-## 📈 **Current Focus Areas**
-
-<div align="center">
-
-| 🔥 **Hot Topics** | 📚 **Learning Path** | 🎯 **Goals 2025** |
-|:---:|:---:|:---:|
-| Large Language Models | Advanced MLOps | AI Product Leadership |
-| Edge Computing | Cloud-Native Architecture | Open Source Contributions |
-| Real-time Analytics | Kubernetes Mastery | Technical Mentoring |
-
-</div>
 
 ---
 

@@ -133,14 +133,55 @@
 
 ---
 
-## 🏆 **GitHub Achievements**
+## 🏆 **Achievements & Recognition**
 
 <div align="center">
-  
-  <a href="https://github.com/yashdabhade0106">
-    <img src="https://github-profile-trophy.vercel.app/?username=yashdabhade0106&theme=darkhub&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-  </a>
-  
+
+### **🌟 GitHub Journey Milestones**
+
+<table>
+<tr>
+<td align="center" width="160px">
+<img src="https://img.shields.io/badge/Commits-500+-2ea44f?style=for-the-badge&logo=git&logoColor=white" alt="Commits Badge"/>
+<br/><sub><b>Code Warrior</b></sub>
+</td>
+<td align="center" width="160px">
+<img src="https://img.shields.io/badge/Repositories-25+-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Repositories Badge"/>
+<br/><sub><b>Project Builder</b></sub>
+</td>
+<td align="center" width="160px">
+<img src="https://img.shields.io/badge/Languages-7+-f1e05a?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Languages Badge"/>
+<br/><sub><b>Polyglot Coder</b></sub>
+</td>
+<td align="center" width="160px">
+<img src="https://img.shields.io/badge/Experience-3+Years-ff6b6b?style=for-the-badge&logo=calendar&logoColor=white" alt="Experience Badge"/>
+<br/><sub><b>Seasoned Dev</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<!-- Animated Achievement Banner -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🏆+GitHub+Achievement+Hunter;⭐+Open+Source+Contributor;🔥+Consistent+Code+Committer;💻+Full+Stack+Developer;🚀+Innovation+Driver)](https://git.io/typing-svg)
+
+</div>
+
+<!-- Achievement Cards -->
+<div align="center">
+
+### **📊 Development Highlights**
+
+| 🎯 **Achievement** | 📈 **Milestone** | 🚀 **Impact** |
+|:---:|:---:|:---:|
+| **🥇 First Repository** | Created & Active | Foundation Builder |
+| **⭐ Community Stars** | Growing Collection | Code Quality Recognition |
+| **🔥 Streak Master** | Consistent Commits | Discipline & Dedication |
+| **🌐 Tech Stack Expert** | 7+ Languages Mastery | Versatile Problem Solver |
+| **🤝 Open Source** | Active Contributor | Community Impact |
+
 </div>
 
 ---

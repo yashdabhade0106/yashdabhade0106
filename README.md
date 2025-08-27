@@ -110,17 +110,25 @@
 ## 📊 **GitHub Performance Dashboard**
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=yashdabhade0106&show_icons=true&theme=neon&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashdabhade0106&layout=compact&langs_count=10&theme=neon&hide_border=true"/>
+  
+  <!-- GitHub Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashdabhade0106&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashdabhade0106&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=yashdabhade0106&theme=neon-blurange&hide_border=true" alt="GitHub Streak" />
-
+  
+  <!-- Streak Stats with working URL -->
+  <img src="https://streak-stats.demolab.com/?user=yashdabhade0106&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashdabhade0106&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  
+  <!-- Activity Graph with corrected URL -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashdabhade0106&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" alt="Contribution Graph" />
+  
 </div>
 
 ---
@@ -128,11 +136,25 @@
 ## 🏆 **Achievement Unlocked**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashdabhade0106&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=8" alt="GitHub Trophies" />
+  
+  <!-- Fixed Trophy URL -->
+  <img src="https://github-profile-trophy.vercel.app/?username=yashdabhade0106&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  
 </div>
 
 ---
 
+## 📈 **Coding Activity**
+
+<div align="center">
+  
+  <!-- WakaTime stats (optional - requires setup) -->
+  <!--<img src="https://github-readme-stats.vercel.app/api/wakatime?username=yashdabhade0106&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />-->
+  
+  <!-- GitHub Profile Summary Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashdabhade0106&theme=tokyonight" alt="Profile Summary" />
+  
+</div>
 
 ---
 
@@ -149,7 +171,6 @@
 ```
 
 </div>
-
 
 ---
 

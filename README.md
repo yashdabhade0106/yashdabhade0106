@@ -133,12 +133,13 @@
 
 ---
 
-## 🏆 **Achievement Unlocked**
+## 🏆 **GitHub Achievements**
 
 <div align="center">
   
-  <!-- Fixed Trophy URL -->
-  <img src="https://github-profile-trophy.vercel.app/?username=yashdabhade0106&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <a href="https://github.com/yashdabhade0106">
+    <img src="https://github-profile-trophy.vercel.app/?username=yashdabhade0106&theme=darkhub&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  </a>
   
 </div>
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2DD4BF,50:6366F1,100:A78BFA&text=Yash%20Dabhade&fontColor=0D1117&fontSize=46&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20LLM%20%26%20RAG%20%7C%20Computer%20Vision%20%7C%20Edge%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2DD4BF,100:A78BFA&text=Yash%20Dabhade&fontColor=0D1117&fontSize=46&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20LLM%20%26%20RAG%20%7C%20Computer%20Vision%20%7C%20Edge%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+RAG+%26+multi-agent+LLM+pipelines;Fine-tuning+CNNs+for+computer+vision;Deploying+inference+on+the+edge;Turning+research+into+production+AI" alt="Typing SVG" />
 
@@ -11,7 +11,7 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2DD4BF,50:6366F1,100:A78BFA"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2DD4BF,100:A78BFA"/>
 
 ## ⚡ About
 
@@ -40,7 +40,7 @@ Completed a 6-month virtual research internship with **National Chung Cheng Univ
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2DD4BF,50:6366F1,100:A78BFA"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2DD4BF,100:A78BFA"/>
 
 ## 🧬 Core Strengths
 
@@ -54,7 +54,7 @@ Completed a 6-month virtual research internship with **National Chung Cheng Univ
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2DD4BF,50:6366F1,100:A78BFA"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2DD4BF,100:A78BFA"/>
 
 ## 🛠️ Technical Skills
 
@@ -103,7 +103,7 @@ Completed a 6-month virtual research internship with **National Chung Cheng Univ
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2DD4BF,50:6366F1,100:A78BFA"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2DD4BF,100:A78BFA"/>
 
 ## 🚀 Featured Projects
 
@@ -142,7 +142,7 @@ Grayscale → edge detection → contour localization → OCR pipeline, tuned YO
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2DD4BF,50:6366F1,100:A78BFA"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2DD4BF,100:A78BFA"/>
 
 ## 🔬 Research Experience
 
@@ -157,7 +157,7 @@ Sanjivani College of Engineering × National Chung Cheng University (NCCU), Taiw
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2DD4BF,50:6366F1,100:A78BFA"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2DD4BF,100:A78BFA"/>
 
 ## 📊 GitHub Activity
 
@@ -186,7 +186,7 @@ Sanjivani College of Engineering × National Chung Cheng University (NCCU), Taiw
 
 <sub>These widgets run on a shared public service that occasionally times out under load — if a card doesn't render, refresh or open the image in a new tab.</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2DD4BF,50:6366F1,100:A78BFA"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2DD4BF,100:A78BFA"/>
 
 ## 🏆 Certifications & Achievements
 
@@ -206,7 +206,7 @@ Sanjivani College of Engineering × National Chung Cheng University (NCCU), Taiw
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2DD4BF,50:6366F1,100:A78BFA"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2DD4BF,100:A78BFA"/>
 
 ## 📬 Connect
 
@@ -219,4 +219,4 @@ Sanjivani College of Engineering × National Chung Cheng University (NCCU), Taiw
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:A78BFA,50:6366F1,100:2DD4BF&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:A78BFA,100:2DD4BF&section=footer&animation=fadeIn" width="100%"/>

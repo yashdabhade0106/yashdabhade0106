@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2DD4BF,100:A78BFA&text=Yash%20Dabhade&fontColor=0D1117&fontSize=46&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20LLM%20%26%20RAG%20%7C%20Computer%20Vision%20%7C%20Edge%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2DD4BF,100:A78BFA&text=Yash%20Dabhade&fontColor=0D1117&fontSize=46&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20LLM%20and%20RAG%20%7C%20Computer%20Vision%20%7C%20Edge%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+RAG+%26+multi-agent+LLM+pipelines;Fine-tuning+CNNs+for+computer+vision;Deploying+inference+on+the+edge;Turning+research+into+production+AI" alt="Typing SVG" />
 

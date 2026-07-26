@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1472" height="757" alt="image" src="https://github.com/user-attachments/assets/856baf98-2e97-4525-9def-ec1d577ff4be" /><div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2DD4BF,50:6366F1,100:A78BFA&text=Yash%20Dabhade&fontColor=0D1117&fontSize=46&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20LLM%20%26%20RAG%20%7C%20Computer%20Vision%20%7C%20Edge%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
@@ -162,7 +162,7 @@ Sanjivani College of Engineering × National Chung Cheng University (NCCU), Taiw
 ## 📊 GitHub Activity
 
 <div align="center">
-
+<img src="profile-3d-contrib/grid.svg" width="100%"/>
 <img src="https://streak-stats.demolab.com/?user=yashdabhade0106&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 <br/>

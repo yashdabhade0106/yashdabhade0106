@@ -221,10 +221,4 @@ Sanjivani College of Engineering × National Chung Cheng University (NCCU), Taiw
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2DD4BF,100:A78BFA"/>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashdabhade0106&theme=github-compact&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:A78BFA,100:2DD4BF&section=footer&animation=fadeIn" width="100%"/>

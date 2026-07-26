@@ -34,7 +34,7 @@
 </td>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yashdabhade0106&show_icons=true&theme=radical&hide_border=true&count_private=true" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashdabhade0106&theme=radical" width="100%" />
 
 </td>
 </tr>
@@ -105,13 +105,13 @@
 
 <div align="center">
 
-### 🩺 [MedAssist – AI Pharmacy Management System](#) `[GitHub]`
+### 🩺 [MedAssist – AI Pharmacy Management System](#)
 AI/LLM Pipeline Developer — 3-stage NLP agent pipeline (Extractor → Safety → Executor) for parsing natural-language medicine orders using fuzzy matching + Groq LLM, Gemini Vision for prescription OCR, Sarvam AI for multilingual (Hindi, Tamil, Marathi) translation, Langfuse observability, Pytest coverage.
 
-### 🏭 [Industrial Edge AI Monitoring Platform](#) `[GitHub]`
+### 🏭 [Industrial Edge AI Monitoring Platform](#)
 AI/ML Developer (inference module) — classifies 13+ industrial fault categories with confidence scoring (Scikit-learn + ONNX) on ARM64 hardware (Raspberry Pi 3B+, 1GB RAM), within <250MB RAM / <40% CPU.
 
-### 🚗 [Vehicle License Plate Detection](#) `[GitHub]`
+### 🚗 [Vehicle License Plate Detection](#)
 OpenCV & Tesseract OCR — grayscale → edge detection → contour localization → OCR pipeline, tuned YOLOv5 thresholds, exposed as a REST API via Flask for image and video input.
 
 </div>
@@ -137,14 +137,14 @@ Sanjivani College of Engineering × National Chung Cheng University (NCCU), Taiw
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashdabhade0106&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashdabhade0106&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=yashdabhade0106&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=yashdabhade0106&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashdabhade0106&theme=tokyonight"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashdabhade0106&theme=tokyonight"/>
 
 </div>
 
@@ -153,6 +153,8 @@ Sanjivani College of Engineering × National Chung Cheng University (NCCU), Taiw
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashdabhade0106&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" alt="Contribution Graph" />
 
 </div>
+
+> 💡 GitHub widget services (github-readme-stats, activity-graph) run on a shared public instance that's known to time out under heavy load — if any card shows broken here, it's usually temporary. Right-click → "Open image in new tab" to force a refresh, or see the note at the bottom of this file for a permanent self-hosted fix.
 
 ---
 
@@ -184,13 +186,11 @@ Sanjivani College of Engineering × National Chung Cheng University (NCCU), Taiw
 
 <div align="center">
 
-```
-🧠 LLM PIPELINE BUILDER  │  👁️ COMPUTER VISION       │  ⚡ EDGE AI DEPLOYER
-                         │                            │
-• RAG & multi-agent flows│  • CNN fine-tuning         │  • ARM64 optimization
-• Prompt & tool design   │  • YOLO / OCR pipelines    │  • Resource-constrained ML
-• API observability      │  • Medical image research  │  • Real-time inference
-```
+| 🧠 LLM PIPELINE BUILDER | 👁️ COMPUTER VISION | ⚡ EDGE AI DEPLOYER |
+|:---|:---|:---|
+| RAG & multi-agent flows | CNN fine-tuning | ARM64 optimization |
+| Prompt & tool design | YOLO / OCR pipelines | Resource-constrained ML |
+| API observability | Medical image research | Real-time inference |
 
 </div>
 
@@ -222,3 +222,13 @@ Sanjivani College of Engineering × National Chung Cheng University (NCCU), Taiw
 <div align="center">
   <i>✨ Crafted with passion by <a href="https://github.com/yashdabhade0106">Yash Dabhade</a> • Transforming ideas into digital reality! ✨</i>
 </div>
+
+<!--
+NOTE ON WIDGET RELIABILITY:
+github-readme-stats.vercel.app and github-readme-activity-graph.vercel.app are shared
+public demo instances used by millions of profiles. They frequently return broken
+images (503 / timeout) during high-traffic periods — this is a known, ongoing upstream
+issue, not something wrong with this README. For a permanent fix, fork
+anuraghazra/github-readme-stats and deploy your own free instance on Vercel, then swap
+the vercel.app domain in the image URLs above for your own deployment URL.
+-->

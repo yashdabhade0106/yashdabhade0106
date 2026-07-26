@@ -1,40 +1,43 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> **Welcome to Yash Dabhade's Digital Universe**
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🤖+AI%2FML+Engineer+%7C+Teaching+Machines+to+Think;🧠+LLM+%26+RAG+Pipeline+Builder;👁️+Computer+Vision+Developer;⚡+Edge+AI+Developer;🐍+Python+Developer+%7C+Code+Craftsman)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1500&color=2DD4BF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;LLM+%26+RAG+Pipeline+Builder;Computer+Vision+Developer;Edge+AI+Developer" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=yashdabhade0106&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/yashdabhade0106?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+# Yash Dabhade
+
+**AI/ML Engineer** — LLM Pipelines · Computer Vision · Edge AI Deployment
+
+<img src="https://img.shields.io/badge/Profile_Views-2DD4BF?style=flat-square&labelColor=1e293b" alt="static"/>
+<img src="https://komarev.com/ghpvc/?username=yashdabhade0106&style=flat-square&color=1e293b&label=" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/yashdabhade0106?style=flat-square&label=Followers&color=1e293b&labelColor=1e293b" alt="Followers"/>
 
 </div>
 
----
+<br/>
 
-## 🎯 **The AI/ML Engineer Behind the Code**
+## About
+
+B.Tech Information Technology (Data Science) student building across the ML lifecycle — from classical model development (TensorFlow, PyTorch, Scikit-learn) to LLM agent workflows (RAG, LangChain, LangGraph, Groq, Gemini Vision).
+
+Completed a 6-month virtual research internship with **National Chung Cheng University (NCCU), Taiwan**, applying deep learning to medical image classification. Comfortable integrating AI APIs into production-grade, full-stack applications (FastAPI, Node.js, React, MySQL).
 
 <table>
 <tr>
-<td width="50%">
+<td width="52%" valign="top">
 
-### 🌟 **Who Am I?**
-- 📍 **Based in:** India 🇮🇳
-- 🎓 **Domain Expert:** AI/ML Engineering — LLM pipelines, computer vision, edge AI
-- 🔬 **Research Background:** 6-month virtual research internship with National Chung Cheng University (NCCU), Taiwan — applying deep learning to medical image classification
-- 🔍 **Mission:** Converting complex problems into elegant, deployable AI systems
-- ⚡ **Superpower:** Integrating AI APIs into real full-stack applications (FastAPI, Node.js, React, MySQL)
+**Focus areas**
+- RAG and multi-agent LLM pipelines
+- Computer vision — CNNs, YOLO, OCR
+- Edge-deployed inference on resource-constrained hardware
+- Full-stack integration of AI systems
 
-### 🎨 **What Drives Me?**
-> *"In a world drowning in data, I'm the lighthouse that guides businesses to insights that matter."*
-
-**Currently Exploring:** RAG & multi-agent pipelines, edge-deployed inference, computer vision
+**Based in** India · **Email** yashdabhade0106@gmail.com
 
 </td>
-<td width="50%">
+<td width="48%" valign="top">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashdabhade0106&theme=radical" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashdabhade0106&theme=github_dark" width="100%" />
 
 </td>
 </tr>
@@ -42,90 +45,90 @@
 
 ---
 
-## 🎪 **My Digital Playground**
+## Core Strengths
 
 <div align="center">
 
-| 🧠 **LLM & RAG Builder** | 💡 **Full-Stack AI** | 👁️ **CV Engineer** | ⚡ **Edge AI Developer** |
-|:---:|:---:|:---:|:---:|
-| RAG Pipelines | API Orchestration | CNNs (VGG16/ResNet) | ONNX Optimization |
-| LangChain / LangGraph | FastAPI Integration | YOLO Object Detection | ARM64 / Raspberry Pi |
-| Multi-Agent Systems | Database Design | OCR (Tesseract) | Resource-Constrained ML |
-| Prompt Engineering | REST API Design | Image Classification | Real-Time Inference |
+| LLM Pipeline Builder | Computer Vision | Edge AI Deployment |
+|:---|:---|:---|
+| RAG & multi-agent flows | CNN fine-tuning (VGG16/ResNet) | ARM64 optimization |
+| Prompt & tool design | YOLO / OCR pipelines | Resource-constrained ML |
+| API observability (Langfuse) | Medical image research | Real-time inference |
 
 </div>
 
 ---
 
-## 🌈 **Arsenal of Technologies**
+## Technical Skills
 
 <div align="center">
 
-### **🔥 Core Languages**
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+**Languages**
+<br/>
+![Python](https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=2DD4BF)
+![Java](https://img.shields.io/badge/Java-1e293b?style=flat-square&logo=openjdk&logoColor=2DD4BF)
+![C](https://img.shields.io/badge/C-1e293b?style=flat-square&logo=c&logoColor=2DD4BF)
+![C++](https://img.shields.io/badge/C++-1e293b?style=flat-square&logo=cplusplus&logoColor=2DD4BF)
 
-### **🧠 AI/ML & LLM Tooling**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
-![Gemini Vision](https://img.shields.io/badge/Gemini_Vision-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge)
+**AI / ML / LLM Tooling**
+<br/>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1e293b?style=flat-square&logo=tensorflow&logoColor=2DD4BF)
+![PyTorch](https://img.shields.io/badge/PyTorch-1e293b?style=flat-square&logo=pytorch&logoColor=2DD4BF)
+![Scikit--learn](https://img.shields.io/badge/scikit--learn-1e293b?style=flat-square&logo=scikitlearn&logoColor=2DD4BF)
+![OpenCV](https://img.shields.io/badge/OpenCV-1e293b?style=flat-square&logo=opencv&logoColor=2DD4BF)
+![LangChain](https://img.shields.io/badge/LangChain-1e293b?style=flat-square&logo=langchain&logoColor=2DD4BF)
+![LangGraph](https://img.shields.io/badge/LangGraph-1e293b?style=flat-square&logoColor=2DD4BF)
+![Groq](https://img.shields.io/badge/Groq-1e293b?style=flat-square&logoColor=2DD4BF)
+![Gemini Vision](https://img.shields.io/badge/Gemini_Vision-1e293b?style=flat-square&logo=googlegemini&logoColor=2DD4BF)
+![YOLO](https://img.shields.io/badge/YOLO-1e293b?style=flat-square&logoColor=2DD4BF)
 
-### **🌐 Web Technologies**
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+**Web & Backend**
+<br/>
+![FastAPI](https://img.shields.io/badge/FastAPI-1e293b?style=flat-square&logo=fastapi&logoColor=2DD4BF)
+![React](https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=2DD4BF)
+![Node.js](https://img.shields.io/badge/Node.js-1e293b?style=flat-square&logo=nodedotjs&logoColor=2DD4BF)
+![Flask](https://img.shields.io/badge/Flask-1e293b?style=flat-square&logo=flask&logoColor=2DD4BF)
 
-### **🗄️ Databases & Data Tools**
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+**Data & Databases**
+<br/>
+![MySQL](https://img.shields.io/badge/MySQL-1e293b?style=flat-square&logo=mysql&logoColor=2DD4BF)
+![MongoDB](https://img.shields.io/badge/MongoDB-1e293b?style=flat-square&logo=mongodb&logoColor=2DD4BF)
+![Power BI](https://img.shields.io/badge/Power_BI-1e293b?style=flat-square&logo=powerbi&logoColor=2DD4BF)
 
-### **⚙️ Tools & Platforms**
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
-![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=for-the-badge)
+**Tools**
+<br/>
+![Git](https://img.shields.io/badge/Git-1e293b?style=flat-square&logo=git&logoColor=2DD4BF)
+![Postman](https://img.shields.io/badge/Postman-1e293b?style=flat-square&logo=postman&logoColor=2DD4BF)
+![ONNX](https://img.shields.io/badge/ONNX-1e293b?style=flat-square&logo=onnx&logoColor=2DD4BF)
+![Langfuse](https://img.shields.io/badge/Langfuse-1e293b?style=flat-square&logoColor=2DD4BF)
 
-<sub>**Also familiar with (from earlier profile, not resume-verified):** JavaScript, TypeScript, PHP, Kotlin, Angular, Django, Bootstrap, Tailwind, PostgreSQL, AWS, Firebase, Spring, Android, Arduino</sub>
+<sub>Also familiar with: JavaScript, TypeScript, PHP, Kotlin, Angular, Django, Bootstrap, Tailwind, PostgreSQL, AWS, Firebase, Spring, Android, Arduino</sub>
 
 </div>
 
 ---
 
-## 🚀 **Featured Projects**
+## Featured Projects
 
-<div align="center">
+**[MedAssist – AI Pharmacy Management System](#)**
+AI/LLM Pipeline Developer — 3-stage NLP agent pipeline (Extractor → Safety → Executor) for parsing natural-language medicine orders using fuzzy matching and Groq LLM. Gemini Vision for prescription OCR, Sarvam AI for multilingual (Hindi, Tamil, Marathi) translation, Langfuse observability, Pytest coverage.
 
-### 🩺 [MedAssist – AI Pharmacy Management System](#)
-AI/LLM Pipeline Developer — 3-stage NLP agent pipeline (Extractor → Safety → Executor) for parsing natural-language medicine orders using fuzzy matching + Groq LLM, Gemini Vision for prescription OCR, Sarvam AI for multilingual (Hindi, Tamil, Marathi) translation, Langfuse observability, Pytest coverage.
-
-### 🏭 [Industrial Edge AI Monitoring Platform](#)
+**[Industrial Edge AI Monitoring Platform](#)**
 AI/ML Developer (inference module) — classifies 13+ industrial fault categories with confidence scoring (Scikit-learn + ONNX) on ARM64 hardware (Raspberry Pi 3B+, 1GB RAM), within <250MB RAM / <40% CPU.
 
-### 🚗 [Vehicle License Plate Detection](#)
+**[Vehicle License Plate Detection](#)**
 OpenCV & Tesseract OCR — grayscale → edge detection → contour localization → OCR pipeline, tuned YOLOv5 thresholds, exposed as a REST API via Flask for image and video input.
-
-</div>
 
 ---
 
-## 🔬 **Research Experience**
-
-<div align="center">
+## Research Experience
 
 **Machine Learning Intern — Hyperspectral Virtual Internship**
 Sanjivani College of Engineering × National Chung Cheng University (NCCU), Taiwan · Apr 2025 – Sep 2025
 
-| 📈 **F1-Score Improvement** | ⚡ **Turnaround Speedup** | 🧠 **Models Fine-Tuned** |
+<div align="center">
+
+| F1-Score Improvement | Turnaround Speedup | Models Fine-Tuned |
 |:---:|:---:|:---:|
 | +18% over baseline | ~30% faster experiments | VGG16 / ResNet |
 
@@ -133,102 +136,62 @@ Sanjivani College of Engineering × National Chung Cheng University (NCCU), Taiw
 
 ---
 
-## 📊 **GitHub Performance Dashboard**
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=yashdabhade0106&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashdabhade0106&theme=tokyonight"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashdabhade0106&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashdabhade0106&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" alt="Contribution Graph" />
-
-</div>
-
-> 💡 GitHub widget services (github-readme-stats, activity-graph) run on a shared public instance that's known to time out under heavy load — if any card shows broken here, it's usually temporary. Right-click → "Open image in new tab" to force a refresh, or see the note at the bottom of this file for a permanent self-hosted fix.
-
----
-
-## 🏆 **Certifications & Achievements**
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🥉+4th+Place+-+Hackfusion+3.0+Hackathon;✅+SIH+Internal+Qualifier;✅+Cybage+Tech+Fest+%26+RBI%4090+State+Qualifier;📜+GenAI+%2F+RAG+%2F+Cloud+Certified)](https://git.io/typing-svg)
-
-### **📊 Real Milestones**
-
-| 🎯 **Achievement** | 📈 **Detail** |
-|:---:|:---:|
-| **🥉 Hackfusion 3.0** | 4th Place |
-| **✅ Smart India Hackathon (SIH)** | Internal Qualifier |
-| **✅ Cybage Tech Fest & RBI@90 Quiz** | State-Level Qualifier |
-| **📜 Career Essentials in GenAI** | Microsoft & LinkedIn |
-| **📜 McKinsey Forward Program** | Completed |
-| **📜 Google Cloud Data Analytics Track** | Completed |
-| **📜 AWS Cloud Foundations** | Completed |
-| **📜 NPTEL** | Java, Python |
-| **📜 Local AI: Build a RAG Model from Scratch** | Open-Source Tools |
-
-</div>
-
----
-
-## 🌟 **What Makes Me Different?**
-
-<div align="center">
-
-| 🧠 LLM PIPELINE BUILDER | 👁️ COMPUTER VISION | ⚡ EDGE AI DEPLOYER |
-|:---|:---|:---|
-| RAG & multi-agent flows | CNN fine-tuning | ARM64 optimization |
-| Prompt & tool design | YOLO / OCR pipelines | Resource-constrained ML |
-| API observability | Medical image research | Real-time inference |
-
-</div>
-
----
-
-## 🤝 **Let's Build Something Amazing Together!**
-
-<div align="center">
-
-**"The best way to predict the future is to create it with code!"**
+<img src="https://streak-stats.demolab.com/?user=yashdabhade0106&background=0D1117&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&sideLabels=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B&border=1e293b" alt="GitHub Streak" />
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashdabhade0106@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashdabhade01)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dynamic-nasturtium-cdc91f.netlify.app/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/YashDabhade1234?t=68QWrkJczQ4avWtDLTAbRQ&s=09)
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashdabhade0106&theme=github_dark"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashdabhade0106&theme=github_dark"/>
 
-<br/><br/>
+<br/>
 
-**🚀 Open for collaborations • 💼 Available for exciting opportunities • 🌟 Always ready to innovate**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashdabhade0106&bg_color=0D1117&color=94A3B8&line=2DD4BF&point=2DD4BF&hide_border=true&area=true" alt="Contribution Graph" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%" />
+</div>
+
+<sub>These widgets run on a shared public service that occasionally times out under load — if a card doesn't render, refresh or open the image in a new tab. Self-hosting is the permanent fix if it happens often.</sub>
+
+---
+
+## Certifications & Achievements
+
+<div align="center">
+
+| Achievement | Detail |
+|:---|:---|
+| Hackfusion 3.0 Hackathon | 4th Place |
+| Smart India Hackathon (SIH) | Internal Qualifier |
+| Cybage Tech Fest & RBI@90 Quiz | State-Level Qualifier |
+| Career Essentials in GenAI | Microsoft & LinkedIn |
+| McKinsey Forward Program | Completed |
+| Google Cloud Data Analytics Track | Completed |
+| AWS Cloud Foundations | Completed |
+| NPTEL | Java, Python |
+| Local AI: Build a RAG Model from Scratch | Open-Source Tools |
 
 </div>
 
 ---
 
+## Connect
+
 <div align="center">
-  <i>✨ Crafted with passion by <a href="https://github.com/yashdabhade0106">Yash Dabhade</a> • Transforming ideas into digital reality! ✨</i>
+
+![Email](https://img.shields.io/badge/Email-1e293b?style=flat-square&logo=gmail&logoColor=2DD4BF)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1e293b?style=flat-square&logo=linkedin&logoColor=2DD4BF)](https://www.linkedin.com/in/yashdabhade01)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1e293b?style=flat-square&logo=vercel&logoColor=2DD4BF)](https://dynamic-nasturtium-cdc91f.netlify.app/)
+[![Twitter](https://img.shields.io/badge/Twitter-1e293b?style=flat-square&logo=twitter&logoColor=2DD4BF)](https://x.com/YashDabhade1234?t=68QWrkJczQ4avWtDLTAbRQ&s=09)
+
+<a href="mailto:yashdabhade0106@gmail.com">yashdabhade0106@gmail.com</a>
+
 </div>
 
-<!--
-NOTE ON WIDGET RELIABILITY:
-github-readme-stats.vercel.app and github-readme-activity-graph.vercel.app are shared
-public demo instances used by millions of profiles. They frequently return broken
-images (503 / timeout) during high-traffic periods — this is a known, ongoing upstream
-issue, not something wrong with this README. For a permanent fix, fork
-anuraghazra/github-readme-stats and deploy your own free instance on Vercel, then swap
-the vercel.app domain in the image URLs above for your own deployment URL.
--->
+<br/>
+
+<div align="center">
+<sub>Yash Dabhade · AI/ML Engineer</sub>
+</div>
